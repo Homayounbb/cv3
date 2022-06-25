@@ -152,7 +152,7 @@ html {
 
 .section-1-icons i.change {
   transform: translate(-50%, -50%) scale(1);
-  transition: transform 0.3s 0.3s;
+  transition: transform 0.3s 0.5s;
 }
 
 /* End of Section 1 */
